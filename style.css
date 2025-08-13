@@ -66,6 +66,7 @@
 
         /* Toastmasters Logo Styling */
         .logo img {              
+                 mix-blend-mode: multiply;                
                 height: 40px;
             width: auto;
             object-fit: contain;
@@ -539,6 +540,7 @@
             backdrop-filter: blur(2px);
         }
     </style>
+
 
 
 
