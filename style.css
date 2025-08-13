@@ -56,7 +56,7 @@
         .logo {
             font-size: 1.5rem;
             font-weight: 700;
-            color: var(--yellow);
+             color: #F2DF74;  /* Direct yellow color */
             text-decoration: none;
             display: flex;
             align-items: center;
@@ -539,4 +539,5 @@
             backdrop-filter: blur(2px);
         }
     </style>
+
 
