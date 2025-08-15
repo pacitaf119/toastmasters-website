@@ -114,7 +114,7 @@
             background-size: cover;
             background-position: center;
             color: white;
-            padding: 3rem 1rem;  /* REDUCED from 5rem to 3rem */
+           padding: 2rem 1rem;  /* Smaller hero section */
             text-align: center;
         }
 
@@ -173,7 +173,7 @@
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 1rem;  /* REDUCED from 1.5rem to 1rem */
+             padding: 0.5rem;  /* Very tight padding */
         }
 
 
@@ -565,7 +565,16 @@
     transform: translateY(-3px);
 }
 
+/* Tighter paragraph spacing */
+.section p {
+    margin-bottom: 0.8rem;
+}
+
+.section h3 {
+    margin-bottom: 0.5rem;
+}
 </style>
+
 
 
 
