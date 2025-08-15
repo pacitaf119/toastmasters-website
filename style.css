@@ -173,17 +173,16 @@
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 1.5rem;  /* REDUCED from 2rem to 1.5rem */
+            padding: 1rem;  /* REDUCED from 1.5rem to 1rem */
         }
 
 
 
 
         /* SIGNIFICANTLY REDUCED SECTION SPACING */
-        .section {
-            margin-bottom: 2.5rem;  /* REDUCED from 4rem to 2.5rem */
-        }
-
+       .section {
+    margin-bottom: 1.5rem;  /* FURTHER REDUCED from 2.5 to 1.5rem */
+}
 
 
 
@@ -567,6 +566,7 @@
 }
 
 </style>
+
 
 
 
